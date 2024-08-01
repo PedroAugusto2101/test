@@ -1,21 +1,8 @@
-# LOOP WHILE
+# INICIALIZANDO UM REPOSITÓRIO
 
-# if-elif-else
+1. Entrar em uma pasta pelo CMD (seja ela existente ou criada)
+2. Inicializar o repositório com o comando `git init`
 
----
+# CICLO DE VIDA DOS STATUS DE SEUS ARQUIVOS
 
-`control.py`
-
-- Lê em sequência apenas uma vez!
-
-```python
-z = 6
-if z % 2 == 0:    # True
-	print("z is divisible by 2")    # Executed
-elif z % 3 == 0:
-	print("z is divisible by 3")
-else:
-	print("z is neither divisible by 2 nor by 3")
-```
-	
-# Moving on...
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b95a2f24-3b5b-48ca-a8ca-c9ac2bfc18df/Untitled.png)
